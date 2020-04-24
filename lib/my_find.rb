@@ -3,7 +3,7 @@ require 'pry'
 def my_find(collection)
   
   i = 0
-  collection = []
+  # collection = []
   
   
   while i < collection.length do
